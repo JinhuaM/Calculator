@@ -11,10 +11,10 @@
         North位置的上放一个面板，文本框放入其中，用于显示运算中的数据及结果。
         Center位置放一个大面板，North放Back与C按钮,Center放其他按钮。
         对于各个面板内部，可选择一定的布局策略进行布局。
-        （2）添加菜单项，其中，点击“帮助”菜单后，界面如下。
-![Image test](https://raw.githubusercontent.com/JinhuaM/Picture/master/界面.png)
-点击“关于”菜单项，弹出对话框，如下：
-![Image test](https://raw.githubusercontent.com/JinhuaM/Picture/master/提示框.png)
-点击“文件”菜单后，界面如下：
-该菜单第一个菜单项为空操作，单击第二个菜单项“退出”会退出程序的运行。
-![Image test](https://raw.githubusercontent.com/JinhuaM/Picture/master/界面2.png)
+<br>（2）添加菜单项，其中，点击“帮助”菜单后，界面如下。
+<br>![Image test](https://raw.githubusercontent.com/JinhuaM/Picture/master/界面.png)
+<br>点击“关于”菜单项，弹出对话框，如下：
+<br>![Image test](https://raw.githubusercontent.com/JinhuaM/Picture/master/提示框.png)
+<br>点击“文件”菜单后，界面如下：
+<br>该菜单第一个菜单项为空操作，单击第二个菜单项“退出”会退出程序的运行。
+<br>![Image test](https://raw.githubusercontent.com/JinhuaM/Picture/master/界面2.png)
