@@ -13,3 +13,4 @@ Center位置放一个面板，放Back与C按钮。
 South位置放一个面板，放其它按钮。
 对于各个面板内部，可选择一定的布局策略进行布局。
 （2）添加菜单项，其中，点击“帮助”菜单后，界面如下。
+![Image test](https://raw.githubusercontent.com/JinhuaM/Picture/master/界面.png)
